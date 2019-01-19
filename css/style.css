@@ -17,7 +17,7 @@ ul,
 ol {
     margin: 0;
 }
-
+ 
 p {
     margin: 0;
 }
@@ -67,7 +67,16 @@ a:hover {
     float: right;
     width: 86.5%;
 }
-
+.small-box-footer {
+    position: relative;
+    text-align: center;
+    padding: 3px 0;
+    color: #fff;
+    display: block;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.15);
+    text-decoration: none;
+}
 .page-container.sidebar-collapsed {
     transition: all 100ms linear;
     transition-delay: 300ms;
