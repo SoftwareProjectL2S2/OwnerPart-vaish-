@@ -1046,7 +1046,7 @@ ul.dropdown-menu.drp-mnu li {
 /*inner-block--*/
 .inner-block {
     padding: 8em 2em 4em 2em;
-    
+
 }
 
 .market-update-block {
@@ -1581,7 +1581,7 @@ span.malorum-pro {
 }
 .chit-chat-layer1t {
     margin: 2em 0em;
-    height: 500px;
+    height: 300px;
     width: 107%;
     margin-left: -40px;
   
@@ -1597,7 +1597,7 @@ span.malorum-pro {
     font-size: 1.2em;
     font-weight: 700;
     color: #fff;
-    
+    text-transform: uppercase;
     font-family: 'Carrois Gothic', sans-serif;
 }
 
